@@ -19,7 +19,7 @@ A clean, modern web-based PDF merger tool that allows you to combine multiple PD
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/pdf-merger.git
+   git clone https://github.com/TonoySarwor/pdf-merger.git
    cd pdf-merger
    ```
 
@@ -105,9 +105,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - your.email@example.com
+Tonoy Sarwor - tonoysarwor003@gmail.com
 
-Project Link: [https://github.com/yourusername/pdf-merger](https://github.com/yourusername/pdf-merger)
+Project Link: [https://github.com/TonoySarwor/pdf-merger](https://github.com/TonoySarwor/pdf-merger)
 
 ---
 
