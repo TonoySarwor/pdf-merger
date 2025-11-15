@@ -2,8 +2,6 @@
 
 A clean, modern web-based PDF merger tool that allows you to combine multiple PDF files into one document. Built with vanilla JavaScript and features a beautiful, responsive UI.
 
-![PDF Merger Screenshot](https://via.placeholder.com/800x400/6366f1/ffffff?text=PDF+Merger+App)
-
 ## ✨ Features
 
 - **🎯 Drag & Drop Interface** - Simply drag PDF files onto the upload area
